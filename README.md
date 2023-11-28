@@ -1,1 +1,1 @@
-# devops
+# Sample Repo for Devops practice 
